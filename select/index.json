@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Almond Eyes feat. 鎮座DOPENESS",
+  "base_artist": "KIRINJI",
+  "createdAt": "2026-02-08T04:57:04.194875Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Almond Eyes (feat. 鎮座DOPENESS)",
+      "artist": "KIRINJI",
+      "has_synced": true,
+      "path": "select/01_Almond_Eyes_(feat._鎮座DOPENESS)_KIRINJI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Almond Eyes [feat. 鎮座DOPENESS]",
+      "artist": "KIRINJI",
+      "has_synced": true,
+      "path": "select/02_Almond_Eyes_[feat._鎮座DOPENESS]_KIRINJI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Almond Eyes feat. 鎮座DOPENESS",
+      "artist": "KIRINJI",
+      "has_synced": false,
+      "path": "select/pl_01_Almond_Eyes_feat._鎮座DOPENESS_KIRINJI.txt"
+    }
+  ]
+}
